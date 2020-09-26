@@ -17,6 +17,9 @@
                 <div class="card-body">
                     <p>code code code</p>
                 </div>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed sint voluptates ullam, dicta voluptatum velit similique tempore mollitia iure laudantium libero debitis? Molestias consectetur dicta, nihil corporis amet et officia!
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi tempore, repellendus ducimus eos placeat cupiditate optio neque natus. Voluptatem, eligendi. Iure consequuntur vitae quos, veritatis deleniti explicabo voluptas rerum nostrum.
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Esse incidunt quisquam, voluptas deleniti asperiores rerum quas deserunt repudiandae maiores unde? Aperiam ad voluptates perspiciatis? Et odio dignissimos quos nam delectus!
             </div>
             <div class="card mt4" style="margin-top: 30px;">
                 <div class="card-header">Пиши ни</div>
