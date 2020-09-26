@@ -24,7 +24,8 @@
                     <p>Добре дошъл, <strong>{{Auth::user()->name}}</strong></p>
                 </div>
 
-                <a href="{{route('contacts')}}">КОНТАКТИ ---- КЛИКНИ ТУК за връзка с админите!</a>
+                <a href="{{route('contacts')}}">КОНТАКТИ ---- КЛИКНИ ТУК за връзка с админите!</a><br>
+                <a href="{{route('about')}}">За нас....</a>
             </div>
         </div>
     </div>
