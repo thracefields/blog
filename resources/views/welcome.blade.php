@@ -61,6 +61,13 @@
             .m-b-md {
                 margin-bottom: 30px;
             }
+
+            .green-success-title {
+                color: #38c172;
+                margin-top: 60px;
+                border: 3px solid #ff3200;
+                padding: 10px;
+            }
         </style>
     </head>
     <body>
@@ -93,6 +100,8 @@
                     <a href="https://forge.laravel.com">Forge</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
                 </div>
+
+                <h1 class="green-success-title">Оооо, здрастииии! Как е шампионе?</h1>
             </div>
         </div>
     </body>
