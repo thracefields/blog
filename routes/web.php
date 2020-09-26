@@ -23,3 +23,4 @@ Route::get('/contacts', 'PagesController@contacts')->name('contacts');
 
 Route::get('/about', 'PagesController@about')->name('about');
 Route::view('/admins', 'admins');
+Route::view('/users', 'users');
