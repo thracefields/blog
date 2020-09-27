@@ -6,7 +6,9 @@
         <div class="col-md-8">
             <div class="card">
                 <div class="card-header">КОНТАКТИ</div>
-
+                <p>Отличен успех!</p>
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quibusdam, quo provident libero atque accusantium delectus velit, totam hic quos dicta iure distinctio quis ullam voluptates in recusandae veniam, quae et!</p>
+                <em>Excellent!</em>
                 <div class="card-body">
                     <h2>Ако има нещо, звънкайте на 08888888 ;)</h2>
                 </div>
