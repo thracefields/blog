@@ -21,6 +21,7 @@
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi tempore, repellendus ducimus eos placeat cupiditate optio neque natus. Voluptatem, eligendi. Iure consequuntur vitae quos, veritatis deleniti explicabo voluptas rerum nostrum.
                 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Esse incidunt quisquam, voluptas deleniti asperiores rerum quas deserunt repudiandae maiores unde? Aperiam ad voluptates perspiciatis? Et odio dignissimos quos nam delectus!
             </div>
+            <div style="border: 1px solid red; margin: 20px; padding: 50px; font-size: 40px; color: red; text-align: center;">Контакти! На линия 24/7</div>
             <div class="card mt4" style="margin-top: 30px;">
                 <div class="card-header">Пиши ни</div>
 
