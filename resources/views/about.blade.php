@@ -20,6 +20,8 @@
                 </div>
             </div>
 
+            <div style="border: 1px solid red; margin: 20px; padding: 50px; font-size: 40px; color: red">За нас.... Нова кутийка... <br><br>Lorem ipsum dolor sit amet consectetur</div>
+
             <div class="card">
                 <div class="card-header">още един lorem!</div>
 
