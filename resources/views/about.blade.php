@@ -12,6 +12,12 @@
                     <h3>Lorem отгоре</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores, quas. Ipsum deleniti provident molestias itaque recusandae necessitatibus! Sed id cupiditate est fuga. Aliquam neque illum deleniti iure ducimus veniam architecto.</p>
                 </div>
+
+                <div class="card-body">
+                    <h2>Програмисти!</h2>
+                    <h3>Lorem отгоре</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores, quas. Ipsum deleniti provident molestias itaque recusandae necessitatibus! Sed id cupiditate est fuga. Aliquam neque illum deleniti iure ducimus veniam architecto.</p>
+                </div>
             </div>
 
             <div class="card">
