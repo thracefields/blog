@@ -127,6 +127,7 @@
                 </div>
 
                 <h1 class="green-success-title">Оооо, здрастииии! Как е шампионе?</h1>
+                <div style="border: 1px solid red; margin: 20px; padding: 50px; font-size: 40px; color: red">ДОБРЕ ДОШЛИ!</div>
                 <form>
                     <div class="form-group">
                       <label for="exampleInputEmail1">Email address</label>
