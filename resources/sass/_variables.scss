@@ -1,0 +1,45 @@
+$primary: #0c3512;
+$success: #38632d;
+$danger: #990000;
+$link: #0f7ec8;
+$black: #000;
+$white: #fff;
+$brown: #660e0e;
+
+// Custom Colors
+$custom-colors: (
+    'brown': ($brown)
+);
+    
+$text: $black;
+
+$body-background-color: #f9f9f9;
+
+// Fonts
+$family-primary: Cantarell, sans-serif;
+$family-secondary: 'PT Sans', sans-serif;
+
+// Title
+$title-color: #000;
+
+// Table
+$table-background-color: transparent;
+
+// Navbar
+// $navbar-item-color: $black;
+
+// Section
+$section-padding: 1.5rem 0.75rem;
+$section-padding-medium: 4.5rem 0.75rem;
+$section-padding-large: 9rem 0.75rem;
+
+// Panel
+$panel-shadow: 0 2px 3px rgba($black, 0.1), 0 0 0 1px rgba($black, 0.1);
+
+// Card
+$card-shadow: 0 2px 3px rgba($black, 0.1), 0 0 0 1px rgba($black, 0.1);
+$card-content-padding: 1rem;
+
+// Box
+$box-shadow: 0 2px 3px rgba($black, 0.1), 0 0 0 1px rgba($black, 0.1);
+

@@ -1,0 +1,51 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "npm run development",
+        "development": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
+        "watch": "npm run development -- --watch",
+        "watch-poll": "npm run watch -- --watch-poll",
+        "hot": "cross-env NODE_ENV=development node_modules/webpack-dev-server/bin/webpack-dev-server.js --inline --hot --config=node_modules/laravel-mix/setup/webpack.config.js",
+        "prod": "npm run production",
+        "production": "cross-env NODE_ENV=production node_modules/webpack/bin/webpack.js --no-progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js"
+    },
+    "devDependencies": {
+        "@fortawesome/fontawesome-free": "^5.15.1",
+        "@vizuaalog/bulmajs": "^0.11.0",
+        "axios": "^0.20",
+        "bootstrap": "^4.5.2",
+        "browser-sync": "^2.26.12",
+        "browser-sync-webpack-plugin": "2.2.2",
+        "buefy": "^0.9.3",
+        "bulma": "^0.9.1",
+        "bulma-checkradio": "^1.1.1",
+        "bulma-divider": "^0.2.0",
+        "bulma-pageloader": "^0.3.0",
+        "bulma-steps": "^2.2.1",
+        "bulma-timeline": "^3.0.4",
+        "cross-env": "^7.0.2",
+        "jquery": "^3.5.1",
+        "laravel-mix": "^5.0.6",
+        "laravel-vue-bulma-pagination": "^1.0.1",
+        "lodash": "^4.17.20",
+        "normalize.css": "^8.0.1",
+        "normalizecss": "^3.0.0",
+        "popper.js": "^1.16.1",
+        "purify-css": "^1.2.5",
+        "purifycss-webpack": "^0.7.0",
+        "resolve-url-loader": "^3.1.1",
+        "sass": "^1.26.12",
+        "sass-loader": "^10.0.2",
+        "vue": "^2.6.12",
+        "vue-template-compiler": "^2.6.12",
+        "yarn": "^1.22.10"
+    },
+    "dependencies": {
+        "@fortawesome/fontawesome-svg-core": "^1.2.32",
+        "@fortawesome/free-solid-svg-icons": "^5.15.1",
+        "@fortawesome/vue-fontawesome": "^2.0.0",
+        "bulma-helpers": "^0.3.12",
+        "bulma-o-steps": "^1.0.9",
+        "inscrybmde": "^1.11.6"
+    }
+}
